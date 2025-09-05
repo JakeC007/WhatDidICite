@@ -29,7 +29,7 @@ python trim_bib.py <root_dir> <bib_file> [-o output_file]
 ### Example
 
 ```bash
-python trim_bib.py ./my_paper ./references.bib -o paper_refs.bib
+python main.py ./my_paper ./references.bib -o paper_refs.bib
 ```
 
 This will:
